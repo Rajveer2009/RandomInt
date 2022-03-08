@@ -1,0 +1,26 @@
+body {
+    background-color: teal;
+}
+
+input {
+    font-size: 53px;
+    background-color: aquamarine;
+    color: lightseagreen;
+    width: 50px;
+    height: 60px;
+    font-family: 'Courier New';
+}
+
+button {
+    color: lightseagreen;
+    background-color: aquamarine;
+    font-family: 'Courier New';
+    font-size: 35px;
+}
+
+p {
+    color: lightseagreen;
+    font-family: 'Courier New';
+    font-size: 70px;
+    margin-top: -4.5px;
+}
